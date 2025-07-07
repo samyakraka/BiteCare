@@ -5,13 +5,13 @@ import { getAnalytics, isSupported } from "firebase/analytics"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC1H_TMv1o80UAwh8BBMdVl-l4PJT7oCzs",
-  authDomain: "bitecare-11.firebaseapp.com",
-  projectId: "bitecare-11",
-  storageBucket: "bitecare-11.firebasestorage.app",
-  messagingSenderId: "55612589942",
-  appId: "1:55612589942:web:9f81b6a8e4758a4d6a5c57",
-  measurementId: "G-X49J7Z14J2",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 }
 
 // Initialize Firebase
